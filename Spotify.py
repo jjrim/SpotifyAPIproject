@@ -17,6 +17,7 @@ class Spotify:
     def get_youtube_client(self):
         pass
 
+
     def get_liked_videos(self):
         pass
 
